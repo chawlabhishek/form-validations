@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/form-validations/static/css/main.a188e813.chunk.css",
-    "main.js": "/form-validations/static/js/main.093f3acc.chunk.js",
-    "main.js.map": "/form-validations/static/js/main.093f3acc.chunk.js.map",
+    "main.js": "/form-validations/static/js/main.d0823a94.chunk.js",
+    "main.js.map": "/form-validations/static/js/main.d0823a94.chunk.js.map",
     "runtime-main.js": "/form-validations/static/js/runtime-main.65fb2653.js",
     "runtime-main.js.map": "/form-validations/static/js/runtime-main.65fb2653.js.map",
-    "static/js/2.54da5351.chunk.js": "/form-validations/static/js/2.54da5351.chunk.js",
-    "static/js/2.54da5351.chunk.js.map": "/form-validations/static/js/2.54da5351.chunk.js.map",
+    "static/js/2.96d78fd2.chunk.js": "/form-validations/static/js/2.96d78fd2.chunk.js",
+    "static/js/2.96d78fd2.chunk.js.map": "/form-validations/static/js/2.96d78fd2.chunk.js.map",
     "index.html": "/form-validations/index.html",
     "static/css/main.a188e813.chunk.css.map": "/form-validations/static/css/main.a188e813.chunk.css.map",
-    "static/js/2.54da5351.chunk.js.LICENSE.txt": "/form-validations/static/js/2.54da5351.chunk.js.LICENSE.txt"
+    "static/js/2.96d78fd2.chunk.js.LICENSE.txt": "/form-validations/static/js/2.96d78fd2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.65fb2653.js",
-    "static/js/2.54da5351.chunk.js",
+    "static/js/2.96d78fd2.chunk.js",
     "static/css/main.a188e813.chunk.css",
-    "static/js/main.093f3acc.chunk.js"
+    "static/js/main.d0823a94.chunk.js"
   ]
 }
